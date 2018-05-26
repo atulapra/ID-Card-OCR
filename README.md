@@ -17,16 +17,3 @@
 * opencv
 
 * imutils
-
-## Output
-
-Name:  Atul Balaji
-
-Course:  B.Tech
-
-Department:  Electrical Engineering
-
-Roll Number:  EE16B002
-
-
- 
